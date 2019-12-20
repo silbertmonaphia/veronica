@@ -36,7 +36,8 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-    'apps.api.apps.ApiConfig'
+    'apps.api.apps.ApiConfig',
+    'rest_framework',
 ]
 
 MIDDLEWARE = [
@@ -75,6 +76,20 @@ DATABASES = {
     }
 }
 
+# DRF
+
+REST_FRAMEWORK = {
+    'DEFAULT_RENDERER_CLASSES': (
+        'rest_framework.renderers.JSONRenderer',
+    ),
+    # 'DEFAULT_AUTHENTICATION_CLASSES': (
+    #     'rest_framework_jwt.authentication.JSONWebTokenAuthentication',
+    # ),
+    # 'TEST_REQUEST_DEFAULT_FORMAT': 'json',
+    # 'EXCEPTION_HANDLER': 'apps.api.exceptions.exception_handler',
+    # 'DEFAULT_PAGINATION_CLASS': 'apps.api.pagination.LinkHeaderPagination',
+    # 'PAGE_SIZE': 20,
+}
 
 # Password validation
 # https://docs.djangoproject.com/en/2.2/ref/settings/#auth-password-validators
