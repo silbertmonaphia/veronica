@@ -9,9 +9,12 @@ Coffee and Sexuality > Alcohol and Cigarette
 Caffeine & Dopamine & Alcohol & Nicotine
 
 Music: 60s ~ 90s
+Jazz:Louise Armstrong
 Soul: RayCharles
 Funk(LA): JamesBrown | RufusThomas
 Hiphop: Fugees | The Pharcyde| A Tribe called Quest | Wutang Clan | Da La Soul
+
+Instrument:Keyboard/Saxphone/Bass/JazzDrum
 
 Dance = Music + Strength + Clothing
 SoulDance:BebopCrew(Ricky&Yoshibow&SuSumu&Seto&Yoshie&Akane) | Tabo さん | Ohji さん
