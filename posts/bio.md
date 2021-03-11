@@ -8,21 +8,21 @@ Linus Torvalds | Steve Jobs
 Coffee and Sexuality > Alcohol and Cigarette 
 Caffeine & Dopamine & Alcohol & Nicotine
 
-Music: 60s ~ 90s
-Jazz:Louise Armstrong
-Soul: RayCharles
-Funk(LA): JamesBrown | RufusThomas
-Hiphop: Fugees | The Pharcyde| A Tribe called Quest | Wutang Clan | Da La Soul
+Music: 40s ~ 90s
+「Jazz」:Charlie Parker | Dizzy Gillespie | Thelonious Monk |  Art Blakey | Miles Davis | Ella Fitsgerald | Billie Holiday | Sarah Vaughan
+「Soul」: RayCharles | Aretha Franklin | Al Green
+「Funk」(L.A.): JamesBrown | RufusThomas | Parliament-Funkadelic |  Sly & the Family Stone | The Meters | Tower of Power
+「Hiphop」: A Tribe called Quest | De La Soul  | Fugees | GangStarr | The Pharcyde |  Wutang Clan 
 
-Instrument:Keyboard/Saxphone/Bass/JazzDrum
+Bassist:Victor Wooten | Nathan East
 
 Dance = Music + Strength + Clothing
 SoulDance:BebopCrew(Ricky&Yoshibow&SuSumu&Seto&Yoshie&Akane) | Tabo さん | Ohji さん
-LK: Don Campbell | GoGoBrothers(rey&yu) | Hilty & Bosch(yu&jin) | lp lockers(beigow) | Merry Maker
-PP: Skeeter Rabit | Green Tech | Hoan
+LK(L.A.): Don Campbell | GoGoBrothers(rey&yu) | Hilty & Bosch(yu&jin) | lp lockers(beigow) | Merry Maker
+PP(Fresno): Skeeter Rabit | Green Tech | Hoan
 
 Game: ACT/AVG
-  Capcom: ポケットモンスター | 逆転裁判ファン |  BIOHAZARD
+  Capcom: ポケットモンスター | 逆転裁判ファン |  BIOHAZARD | Fanal Fantasy
 Brand: Vans > Converse > Dr.Martens > Asics > NB
 Drama: SoulTrain & Friends & SlamDunk & ColdCase & CriminalMinds
 
@@ -36,8 +36,9 @@ Quotes:
 
 Ins: www.instagram.com/silbertmonaphia
 Blog: silbertmonaphia.github.io
-微信: Vincent-MF
+微信: _smona
 
 这里放最婊的自己.(明日花キララ|深田えいみ)
 黄金分割比0.618/增长极限e2.718
 幸福垃圾食品三件套:香肠+卤蛋+辣条
+Smell: Neroli & Jasmine & Fuzzy Peach
