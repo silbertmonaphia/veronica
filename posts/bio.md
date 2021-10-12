@@ -14,7 +14,7 @@ Music: 40s ~ 90s
 「Funk」(L.A.): JamesBrown | RufusThomas | Parliament-Funkadelic |  Sly & the Family Stone | The Meters | Tower of Power
 「Hiphop」: A Tribe called Quest | De La Soul  | Fugees | GangStarr | The Pharcyde |  Wutang Clan 
 
-Bassist:Victor Wooten | Nathan East
+Bassist:Marcus Miller | Victor Wooten | Nathan East
 
 Dance = Music + Strength + Clothing
 SoulDance:BebopCrew(Ricky&Yoshibow&SuSumu&Seto&Yoshie&Akane) | Tabo さん | Ohji さん
@@ -34,11 +34,17 @@ Quotes:
 "Language is information and information is everything" -Villanelle
 "The best time to plant a tree was 20 years ago. The second best time is now" --Chinese Proverb
 
-Ins: www.instagram.com/silbertmonaphia
 Blog: silbertmonaphia.github.io
-微信: _smona
+Twitter: twitter.com/silbertmonaphia
+IG: instagram.com/silbertmonaphia
+Playlist: music.163.com/#/user/home?id=76856513
+Bilibili: space.bilibili.com/24464283
 
 这里放最婊的自己.(明日花キララ|深田えいみ)
 黄金分割比0.618/增长极限e2.718
 幸福垃圾食品三件套:香肠+卤蛋+辣条
+日常外食三件套:轻食+自选餐+不辣的麻辣烫(冒菜)
 Smell: Neroli & Jasmine & Fuzzy Peach
+唇膏:Lucas Papaw Ointment 木瓜膏 & Burt's Bees
+止汗剂:Lavilin & Old Spice & Rexona
+卓廷(锦霞)
