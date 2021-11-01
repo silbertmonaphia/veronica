@@ -1,6 +1,7 @@
 #Dancer #Hacker #Cool
 Belief: Interesting.Smooth.Elegance.Sweet.
 充沛精力 = (睡好 + 吃喝棒 + 运动足) + (平和的情绪 + 不高不低的压力)
+健康 = 5(饮食+睡眠+运动+清洁+心理) + 2(疫苗+年检)
 
 亚文化下的码农 :-P
 Linus Torvalds | Steve Jobs 
