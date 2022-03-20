@@ -48,4 +48,9 @@ Bilibili: space.bilibili.com/24464283
 Smell: Neroli & Jasmine & Fuzzy Peach
 唇膏:Lucas Papaw Ointment 木瓜膏 & Burt's Bees
 止汗剂:Lavilin & Old Spice & Rexona
-卓廷(锦霞)
+烈士卓廷(锦霞)
+
+
+Vermicelli
+切丝(苹果+青瓜+西生菜)
+切丝(香菜+香茅Lemongrass+胡萝卜+白萝卜+西生菜)
