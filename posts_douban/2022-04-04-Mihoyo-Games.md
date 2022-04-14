@@ -98,7 +98,7 @@ since 20220404
 既然说到了，就扯一点塞尔达的开放世界设计哈，任天堂之前分享里面提到了开放世界三法则：「引力法则」，「三角法则」以及「三把尺法则(距离、密度、时间)」。  
 1.引力法则就是设计一些特别的建筑能吸引玩家好奇心去探索；  
 2.三角法则就是让引力法则的直线变成曲线增加可能性，如下图示例：  
-https://simg.doubanio.com/view/note/l/D4EUiwFMGEJvY0JqhrFfXw/144505240/x88629444.jpg  
+![](https://simg.doubanio.com/view/note/l/D4EUiwFMGEJvY0JqhrFfXw/144505240/x88629444.jpg)  
 
 3.三把尺法则(距离、密度、时间)的话，据说是塞尔达团队调研了京都地区的邮筒便利店分布，以现实为基础，得出了地图的各种建筑物宝箱怪物的距离以及分布密度，还有大迷宫40min，小迷宫5-20min，主线任务100min，直线20min这种时间设计也是基于这种现实基础的。一般玩家不考虑细节还是无感的，但是一旦思考它游戏设计细节，就不得不感叹任天堂塞尔达团队实力还是很可怕滴  
 
@@ -108,9 +108,9 @@ https://simg.doubanio.com/view/note/l/D4EUiwFMGEJvY0JqhrFfXw/144505240/x88629444
 原神给我最大的乐趣其实是在攀岩爬山，登高望远。辛苦爬山去看到远方的美景才是最大的奖励~ 我甚至一度得放大地图看地形哪里比较容易登顶，以前上地理课的时候都没那么积极。想想自己以前在崩坏三这种类ACT游戏里面最大的乐趣是华丽的Combo和手感(学名物理打击反馈)，都怀疑自己是不是老了呀？！  
 P.S. 现实爬山都没那么积极！！！  
 
-https://simg.doubanio.com/view/note/l/diBQieFsVBEjOn-_hDACKQ/144505240/x88628556.jpg 日光下的山顶很清爽  
-https://simg.doubanio.com/view/note/l/18S-VZpyOvqjI6822IHojg/144505240/x88559646.jpg 黄昏的庆云顶真的好美  
-https://simg.doubanio.com/view/note/l/WF3jvwKSjvnF2e1_8srAzQ/144505240/x88628527.jpg 看远处云展云舒真的好减压呜呜呜  
+![日光下的山顶很清爽](https://simg.doubanio.com/view/note/l/diBQieFsVBEjOn-_hDACKQ/144505240/x88628556.jpg)   
+![黄昏的庆云顶真的好美](https://simg.doubanio.com/view/note/l/18S-VZpyOvqjI6822IHojg/144505240/x88559646.jpg)   
+![看远处云展云舒真的好减压呜呜呜](https://simg.doubanio.com/view/note/l/WF3jvwKSjvnF2e1_8srAzQ/144505240/x88628527.jpg)   
 
 另外一个乐趣我想想，应该就是探索地图和建筑的各个角落，在各种偏僻的角落，我这种好事者才会去的地方居然有珍贵的宝箱这种惊喜。欧对，还有的就是开放世界给我的自由，主线让我往东，我往西，甚至往北往南都可以，我就偏不按你说的做(上次发病的还是在艾希挑逗旁白的时候哈哈哈)，限制玩家的只有玩家的想象力，让我真的感受到了是我在玩游戏，而不是像前5年很多端游、手游给我的感觉是，游戏在玩我。  
 
