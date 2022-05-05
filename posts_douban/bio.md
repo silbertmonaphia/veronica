@@ -1,3 +1,4 @@
+「上り坂、下り坂、まさか」
 #Dancer #Hacker #Cool  
 Belief: Interesting.Smooth.Elegance.Sweet.  
 充沛精力 = (睡好 + 吃喝棒 + 运动足) + (平和的情绪 + 不高不低的压力)  
