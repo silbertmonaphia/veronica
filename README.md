@@ -9,3 +9,6 @@ from my douban blog logging for life hack), Chinese posts is here(https://silber
 3.Gunicorn + Supervisor + OpenResty  
 4.Unittest/Pytest/Coverage  
 5.Thrift RPC 
+
+## Architecture
+![Architecture](.VERONICADESIGN.png)
