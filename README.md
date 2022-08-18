@@ -11,4 +11,4 @@ from my douban blog logging for life hack), Chinese posts is here(https://silber
 5.Thrift RPC 
 
 ## Architecture
-![Architecture](.VERONICADESIGN.png)
+![Architecture](./VERONICADESIGN.png)
